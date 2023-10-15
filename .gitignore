@@ -1,4 +1,14 @@
+<<<<<<< Updated upstream
+=======
+# Visual Studio cache directory
+.vs
+.vs/
 
-*.meta
+# Visual Studio Code cache directory
+.vscode
+.vscode/
 
-\.DS_Store
+# Fleet cache directory
+.fleet
+.fleet/
+>>>>>>> Stashed changes
