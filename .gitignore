@@ -1,0 +1,14 @@
+<<<<<<< Updated upstream
+=======
+# Visual Studio cache directory
+.vs
+.vs/
+
+# Visual Studio Code cache directory
+.vscode
+.vscode/
+
+# Fleet cache directory
+.fleet
+.fleet/
+>>>>>>> Stashed changes
