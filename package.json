@@ -1,6 +1,8 @@
 {
     "name": "com.fictional-vision.slice",
     "displayName": "Slice",
-    "author": { "name": "DavidArayan" },
-    "version": "1.0.2"
+    "author": {
+        "name": "DavidArayan"
+    },
+    "version": "1.0.3"
 }
