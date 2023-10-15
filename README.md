@@ -1,5 +1,5 @@
 <h3 align="center">
- <img src="docs/resources/icon.png?raw=true" alt="EzySlice Logo" width="600">
+ <img src="doc/resources/icon.png?raw=true" alt="EzySlice Logo" width="600">
 </h3>
 
 [![Twitter: @DavidArayan](https://img.shields.io/badge/contact-DavidArayan-blue.svg?style=flat)](https://twitter.com/DavidArayan)
